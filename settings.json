@@ -1,0 +1,58 @@
+{
+  "bot-account": {
+    "username": "NguyenCuongBot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "sinhviennamcuoi.aternos.me",
+    "port": 24883,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false,
+      "hit": {
+        "enabled": true,
+        "delay":5000,
+        "attack-mobs":true
+      },
+      "circle-walk":{
+        "enabled":true,
+        "radius":4,
+        "circle-time":5000
+      }
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is urFate_ ",
+        "I want be alone "
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
