@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "sinhviennamcuoi.aternos.me",
-    "port": 24883,
+    "ip": "WordForYou.aternos.me",
+    "port": 44897,
     "version": "1.12.2"
   },
 
